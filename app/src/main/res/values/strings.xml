@@ -5,7 +5,7 @@
     <string name="proximity">Proximity Sensor</string>
     <string name="Light">Light Sensor</string>
     <string name="rotation">Rotation Sensor</string>
-    <string name="accelerometer">Acceletometer Sensor</string>
+    <string name="accelerometer">Accelerometer Sensor</string>
     <string name="Lista">Lista de Sensores</string>
 
 </resources>
